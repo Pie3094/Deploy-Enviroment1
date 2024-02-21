@@ -1,0 +1,7 @@
+authCode: xyz458
+devName: "Pietro"
+spring:
+server:
+  port: 4500
+
+
